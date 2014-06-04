@@ -14,7 +14,7 @@ def square(num1):
     return num1**2
 
 def cube(num1):
-    pass
+    return num1**3
 
 def power(num1, num2):
     pass
